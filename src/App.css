@@ -1,0 +1,23 @@
+.Component {
+  padding: 10px;
+}
+
+.Container {
+  text-align: center;
+}
+
+.Button {
+  color: black;
+  background-color: lightgreen;
+  border: 1px solid black;
+  padding: 4px;
+}
+
+.Input {
+  padding: 3px;
+  width: 200px;
+}
+
+body {
+  background-color: lightblue;
+}
